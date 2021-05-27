@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2021-05-27 12:00:36 +0530
-categories: Javascript NodeJS
+categories: About Me
 ---
 My name is JUN-HWA KIM. 
 I'm a PhD student in the Department of Electrical Engineering, Dongguk University, Seoul.
@@ -12,15 +12,57 @@ Also, I like to join the competition such as Kaggle, Dacon.
 
 I enjoy to share the knowledge and discussion, So please contact any time to my e-mail : jhkim414@naver.com
 
+## [Education]
 
-# [International Journal]
+1. [Bachelor, 2013.3 - 2019.2], Department of Electrical & Electronic Engineering in Dongguk University, Seoul.
+- GPA : 3.76 (139 credit)
+2. [Master, 2019.3 - 2020.8], Department of Electrical & Electronic Engineering in Dongguk University, Seoul.
+- GPA : 4.5 / 4.5 ( 27 credit)
+3. [PhD, 2020.9 - ], Department of Electrical & Electronic Engineering in Dongguk University, Seoul.
 
-# [International Conference]
+## [Teaching assistant]
 
-# [Domestic Conference]
+1. [2018 - 1st semester] : Random signal theory
+2. [2018 - 2nd semester] : Digital signal processing and Design, Image processing
+3. [2019 - 1st semester] : Digital signal processing and Design
+4. [2019 - 2nd semester] : Signal and System
+5. [2020 - 1st semester] : Capston Design
+6. [2020 - 1st semester] : Signal and System, Image processing
+7. [2021 - 1st semester] : Random signal theory
 
-# [Domestic Patents]
+## [International Journal]
 
-# [Books]
+1. Kim, Jun-Hwa, and Chee Sun Won. "Action recognition in videos using pre-trained 2D convolutional neural networks." IEEE Access 8 (2020): 60179-60188.
 
-# [Competitions]
+## [International Conference]
+
+1. Kim, Jun-Hwa, and Chee Sun Won. "Emotion Enhancement for Facial Images Using GAN." In 2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1-4. IEEE, 2020.
+
+## [Domestic Conference]
+
+1. 김준화, 노경준, 장영지. "미세먼지 감소 IoT 시스템", Proceedings of KIIT Conference, 2018.
+2. 김준화, 원치선. "GAN을 이용한 얼굴 훈련 영상 데이터의 감정 특성 강화", kspc, 2019.
+
+## [Domestic Patents]
+
+1. [Not registered yet] METHOD AND APPARATUS FOR PROCESSING VIDEO DATA TO UTILIZE DEEP NEURAL NETWORK ARCHITECTURES DEVELOPED FOR STILL IMAGES
+
+## [Books]
+
+1. Daicon Competition 1st Prize Solution, WIKI-BOOKS, 2021-01-22
+
+## [Competitions]
+
+1. TBD
+
+## [Language skill]
+
+korean
+English(TOEIC : 880, OPIC : IM2) 
+
+## [Programming language skill]
+
+python(pytorch, tensorflow, keras)
+matlab
+C
+HTML
