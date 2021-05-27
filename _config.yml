@@ -28,7 +28,10 @@ plainwhite:
   social_links:
     github:  kjunhwa
     linkedIn: in/j-h-kim-1092381ba/
-    
+  navigation:
+    - title: My Work
+      url: "/my-work"
+
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
