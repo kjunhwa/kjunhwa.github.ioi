@@ -64,7 +64,7 @@ I enjoy to share the knowledge and discussion, So please contact any time to my 
   - Results : 1st prize
 4. [2020] NIPA
   - Subject : Deep fake image classification
-  - Results : 1st prize
+  - Results : 3rd prize
 5. [2020] KERC
   - Subject : Complex Facial expression recognition in Videos
   - Results : 3rd prize
