@@ -40,7 +40,7 @@ I enjoy to share the knowledge and discussion, So please contact any time to my 
 
 ## [Domestic Conference] 
 
-1. 김준화, 노경준, 장영지. "미세먼지 감소 IoT 시스템", Proceedings of KIIT Conference, 2018. 
+1. 김준화, 노경준, 장영지, 전병훈. "미세먼지 감소 IoT 시스템", Proceedings of KIIT Conference, 2018. 
 2. 김준화, 원치선. "GAN을 이용한 얼굴 훈련 영상 데이터의 감정 특성 강화", kspc, 2019. 
 
 ## [Domestic Patents] 
