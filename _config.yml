@@ -10,6 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 header:
   pages:
     - name: Home
+    - name: about
+    - name: blog
     - name: DeepReview
 
 # Minima date format
