@@ -36,6 +36,7 @@ plainwhite:
   navigation:
     - title: About Me
       url: "/my-work"
+ 
 
     #rss: rss
     #dribbble: jekyll
@@ -60,7 +61,13 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
-
+urls:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Blog
+    url: /blog
 # Build settings
 theme: plainwhite
 
