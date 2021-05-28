@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction"
 date:   2021-05-27 12:00:36 +0530
 categories: About
+comments: true
 ---
 My name is JUN-HWA KIM.  
 I'm a PhD student in the Department of Electrical Engineering, Dongguk University, Seoul. 
