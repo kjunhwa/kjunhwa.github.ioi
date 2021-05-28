@@ -48,7 +48,7 @@ plainwhite:
     #telegram: jekyll
     #gitlab: jekyll
     #email: jekyll
-
+    disqus_shortname : kjunhwa
     # Mastodon instances
     # mastodon:
     # - username: jekyll
