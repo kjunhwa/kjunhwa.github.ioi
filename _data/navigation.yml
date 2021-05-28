@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: https://kjunhwa.github.io
+  - title: "About"
+    url: /about/
+  - title: "블로그 만들기"
+    url: /MakingBlog/
